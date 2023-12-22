@@ -25,8 +25,14 @@ Some builds may not work in the prossess of backing up all the links Stuff like 
 
 
 
+# Credits
 
-
+- skid3422
+- Aqaud
+- Icy
+- RecRoom2016 
+- just.a.pingvin
+- brahman
 
 
 # 2016
