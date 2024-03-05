@@ -51,7 +51,6 @@ Some builds may not work in the prossess of backing up all the links Stuff like 
 |  TutorialBuild2016    | [Link](https://drive.google.com/file/d/1PZUbI37Fm5j64VgqTTscHzIrblwjkP0m/view?usp=sharing) |
 |  Epic build 2016    | [Link](https://drive.google.com/file/d/11byHkDMkXCn1nc6N_B8xo4KkpG9L-_8o/view?usp=sharing) |
 |  december 23rd 2016 - Screen Mode     | [Link](https://drive.google.com/file/d/1yIHtYD2WD0bCs8tVDa2J-6cUwfkidEmD/view?usp=sharing) |
-|  corrupt build/funny build 2016 (Brahman)    | [Link](https://drive.google.com/file/d/10wAjeQzsXWHiPEZClP6rSXWqfy6m2Api/view?usp=sharing) |
 | November 23rd 2016                              | [Link](https://drive.google.com/file/d/1M0mJLcf7XGG-OyV0HTaI6cBAe19THZi4/view?usp=sharing) |
 
 # 2017
