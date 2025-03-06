@@ -27,7 +27,7 @@
     },
     {
       "buildName": "First dormroom with beta locker room",
-      "date": 2016-06-28,
+      "date": "June 28, 2016",
       "downloadLink": "https://drive.google.com/file/d/1NaLwvQ9w6Ge1TSv2TJ10FLRQ1mkrnkTd/view"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "buildName": "DanTDM BUILD",
-      "date": "Aug 1, 2016",
+      "date": "August 1, 2016",
       "downloadLink": "https://drive.google.com/file/d/1ETCMIyUI-j6x8PTtgV7Qy58j9g560vW0/view"
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "buildName": "VaultEpicQuestAndGoKarts-OpenRec",
-      "date": 2017,
+      "date": "2017",
       "downloadLink": "https://drive.google.com/file/d/1GV6Dm34PBLhZVuZeK_eofACrUP3Mn4Qw/view"
     },
     {
@@ -156,6 +156,11 @@
       "buildName": "October 19, 2017",
       "date": "October 19, 2017",
       "downloadLink": "https://drive.google.com/file/d/1ZmOtP5c_LCG58RMFVTF3My84LUvPmxjn/view?usp=sharing"
+    },
+    {
+      "buildName": "tmoney_trailer",
+      "date": "2017",
+      "downloadLink": "https://drive.google.com/file/d/11otpY9ryWVYQetjZy_BY51Svdjk-f7AU/view"
     }
   ],
   "2018": [
@@ -163,11 +168,6 @@
       "buildName": "VaultServer February 13, 2018",
       "date": "February 13, 2018",
       "downloadLink": "https://drive.google.com/file/d/1N27Vaq0UGksitBv1f_ag5HuXcNDjg1Mh/view?usp=sharing"
-    },
-    {
-      "buildName": "February 13, 2018 Build",
-      "date": "February 13, 2018",
-      "downloadLink": "https://drive.google.com/file/d/1N27Vaq0UGksitBv1f_ag5HuXcNDjg1Mh/view"
     },
     {
       "buildName": "May 30, 2018",
@@ -178,11 +178,6 @@
       "buildName": "VaultServer June 22, 2018",
       "date": "June 22, 2018",
       "downloadLink": "https://drive.google.com/file/d/1cfzP7yvMuCPzDClh7bxTiYV20mdwluQQ/view?usp=sharing"
-    },
-    {
-      "buildName": "June 22, 2018 Build",
-      "date": "June 22, 2018",
-      "downloadLink": "https://drive.google.com/file/d/1cfzP7yvMuCPzDClh7bxTiYV20mdwluQQ/view"
     },
     {
       "buildName": "September 27, 2018",
@@ -198,12 +193,6 @@
       "buildName": "November 8, 2018",
       "date": "November 8, 2018",
       "downloadLink": "https://drive.google.com/file/d/1chVQbJ5zrDrX5PuURJOkqfjQ15cw5v_t/view"
-    },
-    
-    {
-      "buildName": "tmoney_trailer",
-      "date": 2017,
-      "downloadLink": "https://drive.google.com/file/d/11otpY9ryWVYQetjZy_BY51Svdjk-f7AU/view"
     }
   ],
   "2019": [
